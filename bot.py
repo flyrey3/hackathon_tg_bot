@@ -4,8 +4,7 @@ from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 
 TELEGRAM_TOKEN = '6123640828:AAEfgv8H-EsdmFBY8UngOGT3XodzAMD-NOg'
-OPENAI_API_KEY = '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'
-
+OPENAI_API_KEY = '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'
 greeting = 'Привет! Я бот, который может отвечать на твои вопросы с помощью ChatGPT. Просто отправь мне свой вопрос.'
 
 openai.api_key = OPENAI_API_KEY
